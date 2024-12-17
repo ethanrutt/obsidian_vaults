@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tmux/tmuxster.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmuxster"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "63a1ab98d623bcf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Submodules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Submodules"
             }
           },
           {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1bcb98bd89e1173",
+  "active": "63a1ab98d623bcf8",
   "lastOpenFiles": [
-    "Git/Working with Specific Files In Other Commits or Branches.md",
     "Git.md",
+    "Git/Submodules.md",
+    "Tmux/tmuxster.md",
+    "Git/Working with Specific Files In Other Commits or Branches.md",
     "Git/Comparing Commits.md",
     "Programming Languages.md",
     "ProgrammingLanguages/python.md",
@@ -214,7 +230,6 @@
     "Tmux",
     "Git",
     "Bash/AddingIncludePathsToLSP.md",
-    "Tmux/tmuxster.md",
     "Summer Stuff.md",
     "HW2.md",
     "Windows/Windows Keybinds To Know.md",

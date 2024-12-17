@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "会話ノート"
             }
-          },
-          {
-            "id": "037bd5d14da2ffe7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "037bd5d14da2ffe7",
+  "active": "eb224061c3172c92",
   "lastOpenFiles": [
     "Table Of Contents.md",
     "マギー先生のレッスン.md",
