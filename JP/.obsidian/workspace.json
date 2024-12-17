@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "会話ノート.md",
+                "file": "Table Of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "会話ノート"
+              "title": "Table Of Contents"
+            }
+          },
+          {
+            "id": "1daa8340f8ad8a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "元気/元気レッスン.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "元気レッスン"
+            }
+          },
+          {
+            "id": "44e4b9722e243903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "元気/七.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "七"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,13 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb224061c3172c92",
+  "active": "44e4b9722e243903",
   "lastOpenFiles": [
-    "Table Of Contents.md",
-    "マギー先生のレッスン.md",
-    "元気/六.md",
     "元気/元気レッスン.md",
+    "Table Of Contents.md",
+    "元気/六.md",
+    "元気/七.md",
     "会話ノート.md",
+    "マギー先生のレッスン.md",
     "元気/五.md",
     "元気/四.md",
     "Untitled.md",
