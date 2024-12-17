@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Working with Specific Files In Other Commits or Branches.md",
+                "file": "Tmux/tmuxster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working with Specific Files In Other Commits or Branches"
+              "title": "tmuxster"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "f1bcb98bd89e1173",
   "lastOpenFiles": [
-    "Git.md",
     "Git/Working with Specific Files In Other Commits or Branches.md",
+    "Git.md",
     "Git/Comparing Commits.md",
     "Programming Languages.md",
     "ProgrammingLanguages/python.md",
