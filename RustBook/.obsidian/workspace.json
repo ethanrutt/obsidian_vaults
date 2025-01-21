@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "844d92c73635e7e5",
+    "id": "bbd13385e5925b82",
     "type": "split",
     "children": [
       {
-        "id": "2c7f6d6686c93f3f",
+        "id": "084c8e840231b2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9788732617907197",
+            "id": "c263049640781cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "元気/八.md",
+                "file": "Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "八"
+              "title": "Table of Contents"
+            }
+          },
+          {
+            "id": "8d38e00bfcde1563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter1"
+            }
+          },
+          {
+            "id": "548ab2ba33b42125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e7b7291efd8f9239",
+    "id": "d78bc7047a90d4cd",
     "type": "split",
     "children": [
       {
-        "id": "98b946adca72f645",
+        "id": "3ec88d73780e45da",
         "type": "tabs",
         "children": [
           {
-            "id": "0024ddea538796b5",
+            "id": "6816844748ba12df",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +76,12 @@
             }
           },
           {
-            "id": "19c66d9f3235c13a",
+            "id": "456b4a414dc437c5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "てはいけません",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +93,7 @@
             }
           },
           {
-            "id": "22b92852da468851",
+            "id": "9ed9159814397a45",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +102,27 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "28122cf5576e0715",
+    "id": "0782cf2695bfe283",
     "type": "split",
     "children": [
       {
-        "id": "f4adaf0a5e7913b4",
+        "id": "162b7119305358de",
         "type": "tabs",
         "children": [
           {
-            "id": "ec658d93168eebc0",
+            "id": "d12654f6725d9acf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Of Contents.md",
+                "file": "Chapter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Table Of Contents"
+              "title": "Backlinks for Chapter1"
             }
           },
           {
-            "id": "8052b7469e0c09d4",
+            "id": "1f0098861265f3e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table Of Contents.md",
+                "file": "Chapter1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Table Of Contents"
+              "title": "Outgoing links from Chapter1"
             }
           },
           {
-            "id": "edb1cd12dd5c8903",
+            "id": "96c1bac99bc5f2e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,15 +163,15 @@
             }
           },
           {
-            "id": "5fb01637604e961a",
+            "id": "56986cd83a2c03d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table Of Contents.md"
+                "file": "Chapter1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Table Of Contents"
+              "title": "Outline of Chapter1"
             }
           }
         ]
@@ -163,24 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c66d9f3235c13a",
+  "active": "548ab2ba33b42125",
   "lastOpenFiles": [
-    "元気/元気レッスン.md",
-    "Table Of Contents.md",
-    "元気/八.md",
-    "元気/七.md",
-    "元気/六.md",
-    "会話ノート.md",
-    "マギー先生のレッスン.md",
-    "元気/五.md",
-    "元気/四.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "元気/三.md",
-    "元気/二.md",
-    "元気/一.md",
-    "元気/元気ノート.md",
-    "元気",
-    "create a link.md"
+    "Chapter1.md",
+    "Table of Contents.md",
+    "Chapter2.md"
   ]
 }
