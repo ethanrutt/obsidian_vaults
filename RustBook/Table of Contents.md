@@ -1,3 +1,8 @@
-[[Chapter1]]
-[[Chapter2]]
-
+- [[Chapter1]]
+- [[Chapter2]]
+- Chapter3
+	- [[3.1 Variables]]
+	- [[3.2 Basic Types]]
+	- [[3.3 Functions]]
+	- [[3.4 Comments]]
+	- [[3.5 Control Flow]]

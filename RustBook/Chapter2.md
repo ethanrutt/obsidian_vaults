@@ -116,7 +116,7 @@ let guess: u32 = guess.trim().parse().expect("Please type a number!");
 	- This annotation is also used by the `parse()` method, it will attempt to convert the string to that type.
 		- You can explicitly do this by using `turbofish`, check [here](https://doc.rust-lang.org/std/primitive.str.html#method.parse)
 		- `let guess = guess.trim().parse::<u32>().expect("Please type a number!");`
-	- We have also already defined `guess` earlier. Rust allows for shadowing, which means that we can use the same variable name. This is nice for when we have to convert types. More on shadowing in [[Chapter3]]
+	- We have also already defined `guess` earlier. Rust allows for shadowing, which means that we can use the same variable name. This is nice for when we have to convert types. More on shadowing in [[3.1 Variables]]
 ## Wrapping up the game, loops and error handling
 * use `loop` keyword to create an infinite loop
 ```rust

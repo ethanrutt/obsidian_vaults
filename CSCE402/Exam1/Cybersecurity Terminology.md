@@ -45,3 +45,4 @@
 	- Sending entity cannot deny having the message changed or sent in the first place
 - Auditability
 	- Independent review
+#definitions #terminology 

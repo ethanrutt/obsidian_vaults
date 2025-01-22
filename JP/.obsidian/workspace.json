@@ -11,10 +11,14 @@
             "id": "5cb3078d2b62057f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "元気/八.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "八"
             }
           }
         ]
@@ -160,6 +164,8 @@
   },
   "active": "5cb3078d2b62057f",
   "lastOpenFiles": [
+    "元気/元気レッスン.md",
+    "Table Of Contents.md",
     "Vim.md",
     "Git.md",
     "Git/FZF Integration.md",
@@ -193,8 +199,6 @@
     "Windows/Windows Keybinds To Know.md",
     "Vim/LongLines.md",
     "ctf.md",
-    "ctf",
-    "465HW1.md",
-    "Korea Notes ! Delete Later.md"
+    "ctf"
   ]
 }

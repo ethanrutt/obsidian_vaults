@@ -80,3 +80,5 @@
 			- force to perform a contract
 			- restitution
 - normally these are in civil cases, criminal cases are normally prison time or fines
+
+#definitions #terminology

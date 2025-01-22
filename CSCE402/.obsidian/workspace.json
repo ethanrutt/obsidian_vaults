@@ -11,10 +11,14 @@
             "id": "5cb3078d2b62057f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -160,6 +164,10 @@
   },
   "active": "5cb3078d2b62057f",
   "lastOpenFiles": [
+    "Exam1/FTC Overview.md",
+    "Exam1/Cybersecurity Terminology.md",
+    "Exam1/Overview of Legal Terminology.md",
+    "Table of Contents.md",
     "Vim.md",
     "Git.md",
     "Git/FZF Integration.md",
@@ -191,10 +199,6 @@
     "Summer Stuff.md",
     "HW2.md",
     "Windows/Windows Keybinds To Know.md",
-    "Vim/LongLines.md",
-    "ctf.md",
-    "ctf",
-    "465HW1.md",
-    "Korea Notes ! Delete Later.md"
+    "ctf"
   ]
 }
