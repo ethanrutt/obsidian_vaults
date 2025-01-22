@@ -1,0 +1,13 @@
+{
+  "editor:delete-paragraph": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "markdown:toggle-preview": []
+}

@@ -1,84 +1,37 @@
 {
   "main": {
-    "id": "a7918f23ce80d584",
+    "id": "f39c8adfd06422e4",
     "type": "split",
     "children": [
       {
-        "id": "c299aba77a8d7cac",
+        "id": "21975bd7ac791cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "96e756c26b02ea9a",
+            "id": "5cb3078d2b62057f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Table of Contents"
-            }
-          },
-          {
-            "id": "dafca5cd1b1255e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam1/Overview of Legal Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Legal Terminology"
-            }
-          },
-          {
-            "id": "74b020915c74f305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table of Contents"
-            }
-          },
-          {
-            "id": "0743c6ec66bdbd39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1433a4db6b0fe440",
+    "id": "7b4a09a7fed047a7",
     "type": "split",
     "children": [
       {
-        "id": "41af76ac71db0b3e",
+        "id": "1950df2126ce1901",
         "type": "tabs",
         "children": [
           {
-            "id": "8b473544018d2492",
+            "id": "370cf5e5718cbec2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,7 +43,7 @@
             }
           },
           {
-            "id": "80dafb7266217fa1",
+            "id": "ec8f700f6d5fab5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +60,7 @@
             }
           },
           {
-            "id": "04f052c54369555a",
+            "id": "5aaba660f768459c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,20 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "73e4e5e2ebde0754",
+    "id": "8b5e778e5e39e041",
     "type": "split",
     "children": [
       {
-        "id": "77c4848580773a64",
+        "id": "a1792b43d2bb9ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "61e8e0baa2c17e55",
+            "id": "97bc04a9e12453e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Table of Contents"
+              "title": "Backlinks for HW2"
             }
           },
           {
-            "id": "fe4d79f1173238d1",
+            "id": "72401a515773dc78",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Table of Contents"
+              "title": "Outgoing links from HW2"
             }
           },
           {
-            "id": "d2a7b1300f360085",
+            "id": "3cec6518a3123d3a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,15 +130,15 @@
             }
           },
           {
-            "id": "e896f35b9cdf90d5",
+            "id": "fd75b2708b50de6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Contents.md"
+                "file": "HW2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Table of Contents"
+              "title": "Outline of HW2"
             }
           }
         ]
@@ -205,12 +158,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0743c6ec66bdbd39",
+  "active": "5cb3078d2b62057f",
   "lastOpenFiles": [
-    "Exam1/Constitution.md",
-    "Table of Contents.md",
-    "Exam1/Cybersecurity Terminology.md",
-    "Exam1/Overview of Legal Terminology.md",
-    "Exam1"
+    "Vim.md",
+    "Git.md",
+    "Git/FZF Integration.md",
+    "Git/Working with Specific Files In Other Commits or Branches.md",
+    "Git/Add by Patch.md",
+    "Git/Comparing Commits.md",
+    "Git/Submodules.md",
+    "Tmux/tmuxster.md",
+    "Programming Languages.md",
+    "ProgrammingLanguages/python.md",
+    "ProgrammingLanguages/python/pip.md",
+    "ProgrammingLanguages/python",
+    "ProgrammingLanguages/c family/Using getopt.md",
+    "ProgrammingLanguages/c family.md",
+    "Bash.md",
+    "ProgrammingLanguages/c family",
+    "ProgrammingLanguages",
+    "Untitled.md",
+    "c/c++.md",
+    "c",
+    "Tmux.md",
+    "Windows.md",
+    "Bash",
+    "Windows",
+    "Vim",
+    "Tmux",
+    "Git",
+    "Bash/AddingIncludePathsToLSP.md",
+    "Summer Stuff.md",
+    "HW2.md",
+    "Windows/Windows Keybinds To Know.md",
+    "Vim/LongLines.md",
+    "ctf.md",
+    "ctf",
+    "465HW1.md",
+    "Korea Notes ! Delete Later.md"
   ]
 }

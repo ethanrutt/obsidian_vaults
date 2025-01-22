@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "444352a6b4bc01c9",
+            "id": "5cb3078d2b62057f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "444352a6b4bc01c9",
+  "active": "5cb3078d2b62057f",
   "lastOpenFiles": [
+    "Vim.md",
     "Git.md",
     "Git/FZF Integration.md",
     "Git/Working with Specific Files In Other Commits or Branches.md",
@@ -180,7 +181,6 @@
     "c/c++.md",
     "c",
     "Tmux.md",
-    "Vim.md",
     "Windows.md",
     "Bash",
     "Windows",
