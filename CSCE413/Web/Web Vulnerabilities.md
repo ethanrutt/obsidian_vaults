@@ -91,7 +91,7 @@
 	- i.e.
 		- Retrieving internal files via an exposed URL fetch mechanism
 		- Scanning internal networks through manipulated requests
-		- XSS
+		- [[XSS]]
 - Mitigation
 	- Validate and sanitize all URLs and user inputs
 	- Block unnecessary outbound requests from servers

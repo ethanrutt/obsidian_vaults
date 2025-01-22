@@ -8,5 +8,6 @@
 [[Finding Vulnerabilities]]
 [[Shodan]]
 [[Google Dorks]]
+[[XSS]]
 
 #TableOfContents

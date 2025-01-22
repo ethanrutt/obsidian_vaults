@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21975bd7ac791cc3",
+        "id": "82644aa35b6a6c92",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb3078d2b62057f",
+            "id": "c92138efc5c99d1c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "XSS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cb3078d2b62057f",
+  "active": "c92138efc5c99d1c",
   "lastOpenFiles": [
+    "Table Of Contents.md",
+    "Web/XSS.md",
+    "Web/Web Vulnerabilities.md",
     "Vim.md",
     "Git.md",
     "Git/FZF Integration.md",
@@ -192,9 +195,6 @@
     "HW2.md",
     "Windows/Windows Keybinds To Know.md",
     "Vim/LongLines.md",
-    "ctf.md",
-    "ctf",
-    "465HW1.md",
-    "Korea Notes ! Delete Later.md"
+    "ctf"
   ]
 }
