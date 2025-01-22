@@ -1,4 +1,8 @@
 {
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
