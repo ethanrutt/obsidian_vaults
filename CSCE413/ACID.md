@@ -55,3 +55,4 @@ if any of these properties are being violated, then it is a security vulnerabili
 	 - Anonymity
 	 - Non-repudiation
 		 - Digital signatures, knowing that it for sure came from who it claims to have came from
+	#overview #ACID
