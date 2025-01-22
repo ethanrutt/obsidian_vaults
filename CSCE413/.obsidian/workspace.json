@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "f39c8adfd06422e4",
+    "id": "7e4c4c106ded5467",
     "type": "split",
     "children": [
       {
-        "id": "21975bd7ac791cc3",
+        "id": "920b1d46b640f61a",
         "type": "tabs",
         "children": [
           {
-            "id": "444352a6b4bc01c9",
+            "id": "2dd4ddd0eb4b4465",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Table Of Contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Table Of Contents"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b4a09a7fed047a7",
+    "id": "9c39aba06088fb1e",
     "type": "split",
     "children": [
       {
-        "id": "1950df2126ce1901",
+        "id": "73bda3531ec9fc93",
         "type": "tabs",
         "children": [
           {
-            "id": "370cf5e5718cbec2",
+            "id": "decd974bd74c6f6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "ec8f700f6d5fab5c",
+            "id": "7f41b3c72fe83a8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "5aaba660f768459c",
+            "id": "51c3e8357f3a3d7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "8b5e778e5e39e041",
+    "id": "df4f0f14fee2993d",
     "type": "split",
     "children": [
       {
-        "id": "a1792b43d2bb9ba1",
+        "id": "087a6fb45f75b811",
         "type": "tabs",
         "children": [
           {
-            "id": "97bc04a9e12453e7",
+            "id": "2dac018f14094f7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW2.md",
+                "file": "Table Of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HW2"
+              "title": "Backlinks for Table Of Contents"
             }
           },
           {
-            "id": "72401a515773dc78",
+            "id": "b70cd7ac6cc1de77",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW2.md",
+                "file": "Table Of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HW2"
+              "title": "Outgoing links from Table Of Contents"
             }
           },
           {
-            "id": "3cec6518a3123d3a",
+            "id": "645e2f12787cc9d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,15 +134,15 @@
             }
           },
           {
-            "id": "fd75b2708b50de6c",
+            "id": "53dd8e4f5e71a017",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW2.md"
+                "file": "Table Of Contents.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HW2"
+              "title": "Outline of Table Of Contents"
             }
           }
         ]
@@ -158,43 +162,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "444352a6b4bc01c9",
-  "lastOpenFiles": [
-    "Git.md",
-    "Git/FZF Integration.md",
-    "Git/Working with Specific Files In Other Commits or Branches.md",
-    "Git/Add by Patch.md",
-    "Git/Comparing Commits.md",
-    "Git/Submodules.md",
-    "Tmux/tmuxster.md",
-    "Programming Languages.md",
-    "ProgrammingLanguages/python.md",
-    "ProgrammingLanguages/python/pip.md",
-    "ProgrammingLanguages/python",
-    "ProgrammingLanguages/c family/Using getopt.md",
-    "ProgrammingLanguages/c family.md",
-    "Bash.md",
-    "ProgrammingLanguages/c family",
-    "ProgrammingLanguages",
-    "Untitled.md",
-    "c/c++.md",
-    "c",
-    "Tmux.md",
-    "Vim.md",
-    "Windows.md",
-    "Bash",
-    "Windows",
-    "Vim",
-    "Tmux",
-    "Git",
-    "Bash/AddingIncludePathsToLSP.md",
-    "Summer Stuff.md",
-    "HW2.md",
-    "Windows/Windows Keybinds To Know.md",
-    "Vim/LongLines.md",
-    "ctf.md",
-    "ctf",
-    "465HW1.md",
-    "Korea Notes ! Delete Later.md"
-  ]
+  "active": "2dd4ddd0eb4b4465",
+  "lastOpenFiles": []
 }

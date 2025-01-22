@@ -8,16 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "444352a6b4bc01c9",
+            "id": "e78c7a462b3e2870",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Table of Contents"
+            }
+          },
+          {
+            "id": "7ae8846c14db3804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top Security Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Top Security Concepts"
+>>>>>>> Stashed changes
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "444352a6b4bc01c9",
+<<<<<<< Updated upstream
+  "active": "e78c7a462b3e2870",
   "lastOpenFiles": [
-    "Git.md",
     "Git/FZF Integration.md",
+    "Git.md",
     "Git/Working with Specific Files In Other Commits or Branches.md",
     "Git/Add by Patch.md",
     "Git/Comparing Commits.md",
@@ -196,5 +223,14 @@
     "ctf",
     "465HW1.md",
     "Korea Notes ! Delete Later.md"
+=======
+  "active": "7ae8846c14db3804",
+  "lastOpenFiles": [
+    "Table of Contents.md",
+    "Top Security Concepts.md",
+    "Risk.md",
+    "Untitled.canvas",
+    "Welcome.md"
+>>>>>>> Stashed changes
   ]
 }
